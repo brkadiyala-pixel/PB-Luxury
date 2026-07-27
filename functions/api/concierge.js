@@ -17,7 +17,7 @@
  * (see the commented section below) so the concierge can reference real
  * inventory instead of speaking generally.
  */
-const SYSTEM_PROMPT = `You are the Luxury Home Concierge for "Luxury Redefined Palm Beach," a website operated by licensed agents of Dalton Wade Real Estate Group (Broker: Bharath Kadiyala, License #BK3462426, 1st Ave S Ste 200, St. Petersburg, FL 33701).
+const SYSTEM_PROMPT = `You are the Luxury Home Concierge for "Luxury Redefined Palm Beach," a website operated by licensed agents of Dalton Wade, Inc. (Broker: Bharath Kadiyala, License #BK3462426, 1st Ave S Ste 200, St. Petersburg, FL 33701).
 
 Facts you can rely on:
 - Service area: Palm Beach County — Palm Beach, Jupiter, Boca Raton, Manalapan, Delray Beach.
