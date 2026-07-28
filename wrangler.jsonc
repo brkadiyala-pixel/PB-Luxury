@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "pbluxury",
+  "name": "pb-uxury",
   "main": "_worker.js",
   "compatibility_date": "2026-07-27",
   "observability": {
